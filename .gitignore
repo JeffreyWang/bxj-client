@@ -6,4 +6,7 @@ platforms/
 plugins/
 .idea
 .sass-cache/
+www/
+src/css/
+src/lib/
 
